@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/IB-computer science-course2.iml" filepath="$PROJECT_DIR$/IB-computer science-course2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arralghw1_/arralghw1_.iml" filepath="$PROJECT_DIR$/arralghw1_/arralghw1_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arralghw1__/arralghw1__.iml" filepath="$PROJECT_DIR$/arralghw1__/arralghw1__.iml" />
       <module fileurl="file://$PROJECT_DIR$/nestedhw1/nestedhw1.iml" filepath="$PROJECT_DIR$/nestedhw1/nestedhw1.iml" />
       <module fileurl="file://$PROJECT_DIR$/nestedhw2/nestedhw2.iml" filepath="$PROJECT_DIR$/nestedhw2/nestedhw2.iml" />
       <module fileurl="file://$PROJECT_DIR$/nestedhw3/nestedhw3.iml" filepath="$PROJECT_DIR$/nestedhw3/nestedhw3.iml" />
